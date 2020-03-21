@@ -29,7 +29,7 @@ As a non-drumming musician, I want to be able to quickly drum out a beat so that
 ## Credits
 This app was built through a tutorial by Wes Bos in his series, [#JavaScript30](https://JavaScript30.com). Please check out his [website](https://wesbos.com/) or this specific [tutorial](https://youtu.be/VuN8qwZoego).
 
-Photo by [Ana Claire](http://www.anaclairephotography.com/2014/07/concert-life-in-black-white/)
+Photo by [Ana Claire](http://www.anaclairephotography.com/2014/07/concert-life-in-black-white/).
 
 
 ## License
